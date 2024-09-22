@@ -1,0 +1,35 @@
+# VPNs (Virtual Private Networks)
+
+**Virtual Private Networks (VPNs)** allow secure connections by allowing a user to transmit data through a secure tunnel.
+
+> A VPN allows a user to securely and discreetly connect to a private network over the internet. A VPN establishes an encrypted connection, known as a VPN tunnel, through which all internet traffic and communications are transmitted. As a result, the user data is safe and confidential.
+
+## Types of VPNs
+
+### Point-To-Point Tunneling Protocol (PPTP)
+
+**Date Introduced:** 1996
+
+PPTP was one of the first protocols designed for establishing virtual private networks and worked by encapsulating Point-to-Point Protocol packets in a TCP stream.
+
+### L2F
+
+L2F was designed to establish VPN tunnels for dial-up network access and addressed the main limitations of PPTP, which was its dependency on IP protocols and a weak encryption mechanism.
+
+### Layer 2 Tunneling Protocol (L2TP)
+
+**Date Introduced:** 1996
+
+L2TP doesn't provide encryption on its own, so it's often combined with IPsec, known as L2TP/IPsec.
+
+### OpenVPN
+
+**Date Introduced:** 2001
+
+Open-Source, publicly-available, easily adaptable.
+
+OpenVPN utilized SSL/TLS for its primary authentication and encryption mechanism and could operate over both UDP and TCP transport layers.
+
+### SSL VPNs
+
+During the 2000s, VPN usage expanded beyond the limitations of dedicated software. SSL VPNs were developed using the SSL/TLS protocol and enabled users to securely access applications, data, and other resources on a network through VPN, only using their browser.
