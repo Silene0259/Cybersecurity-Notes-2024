@@ -18,6 +18,26 @@
 
 **Number of Addresses:** 4,293,967,296 (2^32)
 
+**Classes:** `/8 | A`, `/16 | B`, `/24 | C`, `/32 | D`
+
+#### Consists of two parts:
+
+* Network (Represents the network part of the IP Address)
+
+* Host (represents the specific device on the network)
+
+## Subnet Mask
+
+**Broadcast Address:** 255.255.255.255
+
+**Subnet Mask For Class C:** 255.255.255.0
+
+A subnet mask is a 32-bit address, same as an IP Address. Like an IPv4 address, a subnet mask consists of four octets seperated by dots.
+
+## Classful Network
+
+> **History:** Began in 1981. Used until the introduction of classless inter-domain routing in 1993.
+
 ### IP Protocol
 
 An Internet Protocol that is a numerical label assigned to devices. These devices include devices connected to the internet.
