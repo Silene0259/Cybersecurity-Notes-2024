@@ -96,6 +96,18 @@ It is divided into five different geographical entities.
 
 These are registered public addresses available on the internet.
 
+### Public vs. Private
+
+IP addresses are typically divded into two groups: **private** and **public**
+
+### Private
+
+Private IPs are non-unique addresses that can belong to one of three IP address ranges. They are used to create networks that do not communicate over the internet. The same private IPs can be found in multiple separate networks and are free to use.
+
+### Public
+
+Public addresses are used for communication over the internet. These IP addresses must be unique, require a fee, and be purchased from service providers. A router will typically have both a private and public IP.
+
 
 # Application
 
