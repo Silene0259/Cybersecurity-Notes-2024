@@ -38,6 +38,26 @@ A subnet mask is a 32-bit address, same as an IP Address. Like an IPv4 address, 
 
 > **History:** Began in 1981. Used until the introduction of classless inter-domain routing in 1993.
 
+## Communication Types
+
+1. Unicast
+2. Multicast
+3. Broadcast
+
+### Unicast
+
+The most basic form. One-to-One packet transfer from a device to another.
+
+### Multicast
+
+Single source communicates with multiple destinations. Uses Class D addresses.
+
+**Reserved For Multicasting:** `224.0.0.0 - 239.255.255.255`
+
+### Broadcast
+
+When a packet is sent from one device on the network to all other devices on the network, using 255.255.255.255
+
 ### IP Protocol
 
 An Internet Protocol that is a numerical label assigned to devices. These devices include devices connected to the internet.
