@@ -80,6 +80,10 @@ If:
 
 The OS will randomly generate a **link-local address**. They are not guaranteed to be unique outside the network.
 
+## Loopback Address
+
+Loopback addresses represent the same interface in a computer. It is home. It is how the computer talks to itself. Most operating systems use `localhost` to represent the IPv4 loopback address of `127.0.0.1`.
+
 ### IP Protocol
 
 An Internet Protocol that is a numerical label assigned to devices. These devices include devices connected to the internet.
@@ -91,8 +95,6 @@ It is divided into five different geographical entities.
 > **History:** You used to be able to buy IPv4 addresses
 
 These are registered public addresses available on the internet.
-
-
 
 
 # Application
