@@ -10,13 +10,21 @@
 
 ## IPv4
 
+**Example:** 192.168.26.1
+
 **Format:** `xxx.xxx.xxx.xxx`
+
+**Size:** 32-bit (divided into four octets, with each containing 8 bits)
+
+**Number of Addresses:** 4,293,967,296 (2^32)
 
 ### IP Protocol
 
 An Internet Protocol that is a numerical label assigned to devices. These devices include devices connected to the internet.
 
 The IP Address space is managed by [IANA](https://www.iana.org/) (Internet Assigned Numbers Authority). The American Registry for internet numbers is called [ARIN](https://www.arin.net/).
+
+It is divided into five different geographical entities.
 
 > **History:** You used to be able to buy IPv4 addresses
 
