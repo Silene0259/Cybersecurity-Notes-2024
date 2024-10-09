@@ -4,6 +4,14 @@
 
 **Class:** June 3, 2024
 
+## Quick Tricks
+
+### 0000
+
+To recognize 192 in an IP Address, its:
+
+`11000000`
+
 ## IPv4 vs IPv6
 
 
@@ -57,6 +65,20 @@ Single source communicates with multiple destinations. Uses Class D addresses.
 ### Broadcast
 
 When a packet is sent from one device on the network to all other devices on the network, using 255.255.255.255
+
+## Link-Local
+
+Link-local addresses, also known as APIPA addresses, are only valid for communication within the network broadcast domain.
+
+The entire `169.254.0.0/16` address range is reserved for link-local.
+
+If:
+
+* The DHCP is not availabe
+
+* The IP Address is not statically configured
+
+The OS will randomly generate a **link-local address**. They are not guaranteed to be unique outside the network.
 
 ### IP Protocol
 
