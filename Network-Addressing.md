@@ -12,6 +12,12 @@ To recognize 192 in an IP Address, its:
 
 `11000000`
 
+## Switches vs. Routers
+
+Routers are only when you want to go to the internet.
+
+You can use a switch to create a local area network (LAN).
+
 ## IPv4 vs IPv6
 
 
@@ -22,7 +28,7 @@ To recognize 192 in an IP Address, its:
 
 **Format:** `xxx.xxx.xxx.xxx`
 
-**Size:** 32-bit (divided into four octets, with each containing 8 bits)
+**Size:** 32-bit (divided into four octets, with each containing 8 bits; 4 bytes)
 
 **Number of Addresses:** 4,293,967,296 (2^32)
 
