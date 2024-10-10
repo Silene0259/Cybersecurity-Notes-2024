@@ -34,6 +34,20 @@ To recognize 192 in an IP Address, its:
 
 * Host (represents the specific device on the network)
 
+### Limitations of IPv4
+
+* Limited Address Space
+
+* Address Exhaustion
+
+* Lack of Built-In Security
+
+* Limited Scalability
+
+* Limited Support for QoS
+
+* Lack of Support for Modern Technologies: struggles to meet demands of IoT and cloud computing
+
 ## Subnet Mask
 
 **Broadcast Address:** 255.255.255.255
