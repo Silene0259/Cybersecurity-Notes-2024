@@ -18,6 +18,10 @@ Routers are only when you want to go to the internet.
 
 You can use a switch to create a local area network (LAN).
 
+## NAT
+
+Network Address Translation (NAT) is a way to map multiple private addresses inside a local network to a public IP address before trasnferring the information onto the internet.
+
 ## IPv4 vs IPv6
 
 
