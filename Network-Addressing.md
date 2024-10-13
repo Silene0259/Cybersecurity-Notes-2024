@@ -22,6 +22,12 @@ You can use a switch to create a local area network (LAN).
 
 Network Address Translation (NAT) is a way to map multiple private addresses inside a local network to a public IP address before trasnferring the information onto the internet.
 
+## MAC Address
+
+A MAC Address is a unique 48-bit hardware number of a computer, which is embedded into a network card (known as a Network Interface Card) during the time of manufacturing.
+
+The MAC Address is also known as the Physical Address of a network device or the Hardware Address.
+
 ## IPv4 vs IPv6
 
 
