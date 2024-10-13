@@ -30,6 +30,14 @@ The MAC Address is also known as the Physical Address of a network device or the
 
 This is layer 1.
 
+* MAC addresses are used in LAN (Local Area Network) environments to identify devices and allow communication between them.
+
+* MAC Addresses are burned into the hardware of a Network Interface Card and cannot be changed, except in some rare cases where the manufacturer has provided a specific tool to do so.
+
+* MAC addresses are often used in conjunction with ARP (Address Resolution Protocol) to resolve IP Addresses to MAC Addresses for communication on a LAN
+
+* Some operating system, such as Windows and Linux, allow to visualize the MAC address of the network adapter through a command prompt or through the network settings menu.
+
 ### Format
 
 The MAC Address is a 12-digit hexadecimal number (6-Byte binary number) which is mostly represented by Colon-Hexadecimal notation.
