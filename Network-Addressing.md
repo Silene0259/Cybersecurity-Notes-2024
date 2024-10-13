@@ -22,11 +22,21 @@ You can use a switch to create a local area network (LAN).
 
 Network Address Translation (NAT) is a way to map multiple private addresses inside a local network to a public IP address before trasnferring the information onto the internet.
 
-## MAC Address
+## MAC Address (Physical Address)
 
 A MAC Address is a unique 48-bit hardware number of a computer, which is embedded into a network card (known as a Network Interface Card) during the time of manufacturing.
 
 The MAC Address is also known as the Physical Address of a network device or the Hardware Address.
+
+This is layer 1.
+
+### Format
+
+The MAC Address is a 12-digit hexadecimal number (6-Byte binary number) which is mostly represented by Colon-Hexadecimal notation.
+
+The first six digits of the MAC address identify the manufacturer, called **OUI (Organizational Unique Identifier)**. The rest (other six digits) represent a serial identifier.
+
+**MAC Address:** `00:0d:83:b1:c0:8e`
 
 ## IPv4 vs IPv6
 
